@@ -19,9 +19,9 @@
   >  Android Auto 可以使用扩展包代替([Telegram](https://t.me/oasisfeng_apps/29670))
 
 
-- 去电接听震动 ([Telegram](https://t.me/oasisfeng_apps/26904))
+- 去电接听震动 ([GitHub](https://github.com/Nevolution/decorator-callvibration/releases/))
 
-  > 拨出的电话，当对方接听时，震动手机。仅适用于类原生 Dialer 和 Google Dialer。
+  > 拨出的电话，当对方接听时，震动手机。（适用于类原生及 Google 电话应用）
 
 - 增强截图通知 ([Google Play](https://play.google.com/store/apps/details?id=moe.feng.nevo.decorators.enscreenshot) / [Github](https://github.com/fython/EnhancedScreenshotNotification/releases))
 
