@@ -10,8 +10,8 @@
   > * Non-group messages placed above group messages in notification group.
   > * Colorized notification icon
   
-- Call Vibration ([Telegram](https://t.me/oasisfeng_apps/26904))
-  > Dial out the phone and shake the phone when the other party answers. Applies only to stock Dialer and Google Dialer.
+- Call Vibration ([GitHub](https://github.com/Nevolution/decorator-callvibration/releases/))
+  > Vibrate when outgoing call is answered. (No visual effects, works for AOSP / Google Dialer)
   
 - Enhanced Screenshot Notification ([Google Play](https://play.google.com/store/apps/details?id=moe.feng.nevo.decorators.enscreenshot) / [Github](https://github.com/fython/EnhancedScreenshotNotification/releases))
   > In coordination with Nevolution app, we can enhance your screenshot notification and improve experience.
