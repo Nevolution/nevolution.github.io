@@ -1,3 +1,5 @@
+# Compatibility
+
 Nevolution should work on any AOSP-compatible Android devices.
 
 There're a few exceptions: (mainly due to OEM-specific changes to the Android framework)
