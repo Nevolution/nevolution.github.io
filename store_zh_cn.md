@@ -1,6 +1,6 @@
 ### Nevolution插件
 
-- 微信 · 当代通知体验 ([Google Play](https://play.google.com/store/apps/details?id=com.oasisfeng.nevo.decorators.wechat))
+- 微信 · 当代通知体验 ([Google Play](https://play.google.com/store/apps/details?id=com.oasisfeng.nevo.decorators.wechat) / [GitHub](https://github.com/Nevolution/decorator-wechat/releases))
 
   > 符合当代 Android 通知栏体验的增强特性：
   >
@@ -17,7 +17,6 @@
   > * 符合微信主色调的通知图标配色
   >
   >  Android Auto 可以使用扩展包代替([Telegram](https://t.me/oasisfeng_apps/29670))
-
 
 - 去电接听震动 ([GitHub](https://github.com/Nevolution/decorator-callvibration/releases/))
 
@@ -43,8 +42,6 @@
   >   - 显示新截图的信息（大小、分辨率、类型）
   >   - 从启动器中隐藏
   >   - 未来我们可能会添加更多……
-
-
 
 - 短信验证码通知增强 ([Google Play](https://play.google.com/store/apps/details?id=me.kr328.nevo.decorators.smscaptcha) / [Github](https://github.com/Kr328/nevo-decorators-sms-captchas/releases))
 
