@@ -10,7 +10,7 @@ Compared to normal working mode, enhanced mode provides the following benefits:
 
 How to activate?
 -----------------
-Enhanced mode needs to be activated via the following ADB shell until Android Q:
+Enhanced mode could only be activated via the following ADB shell command until Android Q:
 
 For Android **8.0**:
 
@@ -22,4 +22,21 @@ For Android **8.1 & 9**:
 
 There's no command output for successful activation.
 
-You can verify the working mode by launching Nevolution, to see if it shows "Nevolution is ready (Enhanced mode)".
+You can verify the Enhanced working mode by launching Nevolution, to see if it shows "Nevolution is ready (Enhanced mode)".
+
+How to deactivate?
+-------------------
+
+Enhanced mode could only be deactivated via the following ADB shell command until Android Q:
+
+For Android **8.0**:
+
+`settings delete secure enabled_notification_assistant`
+
+For Android **8.1 & 9**:
+
+`cmd notification disallow_assistant com.oasisfeng.nevo/.Assistant`
+
+There's no command output for successful deactivation.
+
+You can verify the normal working mode by launching Nevolution, to see if it shows "Nevolution is ready".
