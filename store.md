@@ -1,6 +1,6 @@
 ### Nevolution Decorators
 
-- WeChat Modernized ([Google Play](https://play.google.com/store/apps/details?id=com.oasisfeng.nevo.decorators.wechat) / [GitHub](https://github.com/Nevolution/decorator-wechat/releases))
+- WeChat Modernized [built-in] ([GitHub](https://github.com/Nevolution/decorator-wechat))
   > Enhance notification experience of WeChat with following features:
   >
   > * Use "Messaging" notification template optimized for instant messaging. (Android 7+)
