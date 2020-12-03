@@ -23,7 +23,9 @@
 - QQ ([酷安](https://www.coolapk.com/apk/cc.chenhe.qqnotifyevo) / [GitHub](https://github.com/liangchenhe55/QQ-Notify-Evolution))
 
   > 适配原生分渠道通知，可对私聊、群聊、特别关心、空间消息设置不同的提示方式。
+  >
   > 使用原生通知音量与振动，高度兼容智能手环与手表。
+  >
   > 遵循 Android 消息应用通知样式最佳实践，支持显示多组会话与历史消息。
 
 - 去电接听震动 ([GitHub](https://github.com/Nevolution/decorator-callvibration/releases/))
