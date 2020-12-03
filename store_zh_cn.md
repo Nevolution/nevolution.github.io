@@ -4,19 +4,27 @@
 
   > 符合当代 Android 通知栏体验的增强特性：
   >
-  > * 为聊天优化的会话样式 (Messaging Style, Android 7+)
+  > * 为聊天优化的会话样式 (Android 7+)
   >
-  > * 通知频道 (Notification Channel, Android 8+)：消息、群聊 及 其它
+  > * 支持通知气泡 (Android 11+)
+  >
+  > * 更丰富可定制的通知类别 (Notification Channel, Android 8+)
   >
   > * 通知栏直接回复 (Direct Reply, Android 7+)（需要安装 Android Auto）
   >
-  > * 划掉即标记已读（需要安装 Android Auto）
+  > * 划掉即标记已读 (需要安装 Android Auto)
   >
   > * 非群聊消息优先的通知排列
   >
   > * 符合微信主色调的通知图标配色
   >
   >  Android Auto 可以使用扩展包代替([Telegram](https://t.me/oasisfeng_apps/29670))
+
+- QQ ([酷安](https://www.coolapk.com/apk/cc.chenhe.qqnotifyevo) / [GitHub](https://github.com/liangchenhe55/QQ-Notify-Evolution))
+
+  > 适配原生分渠道通知，可对私聊、群聊、特别关心、空间消息设置不同的提示方式。
+  > 使用原生通知音量与振动，高度兼容智能手环与手表。
+  > 遵循 Android 消息应用通知样式最佳实践，支持显示多组会话与历史消息。
 
 - 去电接听震动 ([GitHub](https://github.com/Nevolution/decorator-callvibration/releases/))
 
